@@ -1,0 +1,62 @@
+.card{
+    list-style-type: none;
+    width: 320px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    height: 100px;
+}
+.card:hover{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+.userDetails {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.avatar{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+}
+.name{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.email{
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 6px;
+}
+.details{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.green {
+    color: green;
+    font-size: 20px;
+}
+.red{
+    color: red;
+    font-size: 20px;
+}
+.subtitle{
+    font-size: 17px;
+}
+.addBtn{
+    border-radius: 15px;
+    background-color: #ccc;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.added{
+    background-color: aqua;
+}

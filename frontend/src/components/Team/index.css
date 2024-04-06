@@ -1,0 +1,12 @@
+.teamContainer{
+    top: 100px;
+    position: relative;
+    height: 80vh;
+    text-align: center;
+}
+
+.oneteam{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
