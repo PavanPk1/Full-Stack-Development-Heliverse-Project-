@@ -1,4 +1,4 @@
-# Full Stack Developmen
+# Full Stack Development
 ## Description
 
 This project is a web application that allows users to manage a list of users, create teams, and view team details. It consists of both frontend and backend components.
